@@ -1,0 +1,7 @@
+C:\Users\ahmed\Desktop\Data structure\GroupAnagrams\GroupAnagrams\obj\Debug\GroupAnagrams.csproj.AssemblyReference.cache
+C:\Users\ahmed\Desktop\Data structure\GroupAnagrams\GroupAnagrams\obj\Debug\GroupAnagrams.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\Desktop\Data structure\GroupAnagrams\GroupAnagrams\bin\Debug\GroupAnagrams.exe.config
+C:\Users\ahmed\Desktop\Data structure\GroupAnagrams\GroupAnagrams\bin\Debug\GroupAnagrams.exe
+C:\Users\ahmed\Desktop\Data structure\GroupAnagrams\GroupAnagrams\bin\Debug\GroupAnagrams.pdb
+C:\Users\ahmed\Desktop\Data structure\GroupAnagrams\GroupAnagrams\obj\Debug\GroupAnagrams.exe
+C:\Users\ahmed\Desktop\Data structure\GroupAnagrams\GroupAnagrams\obj\Debug\GroupAnagrams.pdb
